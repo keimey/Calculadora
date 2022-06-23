@@ -1,1 +1,1 @@
-# Calculadora simple, está hecha con Html, Css y JavaScript
+# Calculadora simple con Html, Css y JavaScript
